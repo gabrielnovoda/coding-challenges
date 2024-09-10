@@ -2,7 +2,7 @@
  * Implement a function that takes a string of space separated numbers,
  * and returns a string with the highest and lowest number separated by space.
  *
- * Input: "12-3416"
+ * Input: "1 2 -3 41 6"
  * Output: "16 -3"
  */
 // 
